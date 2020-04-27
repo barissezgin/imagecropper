@@ -1,4 +1,4 @@
-# imagecropper
+# image cropper in java
 this class contains two method.
 
 
